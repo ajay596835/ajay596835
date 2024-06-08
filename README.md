@@ -27,10 +27,6 @@ I am Ajay Sharma, a Computer Science and Engineering graduate with a CGPA of 8.0
 ### Covid Tracker Android App
 - **Technologies:** Android, Java, XML
 
-## Achievements
-
-- Ranked in Codechef competitions
-- Ranked in Google Kickstart competitions
 
 ## Skills
 
@@ -41,5 +37,5 @@ I am Ajay Sharma, a Computer Science and Engineering graduate with a CGPA of 8.0
 
 ## Contact Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [ajay.sharma241099@gmail.com](mailtoajay.sharma241099@gmail.com)
 - **LinkedIn:** [Ajay Sharma](https://www.linkedin.com/in/ajay-sharma)
